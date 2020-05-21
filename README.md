@@ -1,6 +1,10 @@
 
 # Project Name
-This project is to predict if a person will suffer or is sufferring from any heart disease using various Machine Learning Algorithims.
+Heart Disease Prediction
+
+
+### Project Description
+
 
 
 ### Methods Used
